@@ -1,0 +1,6 @@
+{
+  "name": "Django DRF Serializers - 45s Cinematic Reel",
+  "description": "45-second vertical cinematic educational video for Instagram Reels explaining Django REST Framework Serializers with animated code, database ORM queries, and JSON transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
